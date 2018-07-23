@@ -1,2 +1,5 @@
 # hello_world
-Just another repository
+
+Hi People!
+
+I'm here just for fun. Good luck everyone!
